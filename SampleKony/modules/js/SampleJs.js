@@ -1,4 +1,5 @@
 function sample (){
 	alert("One");
 	alert("two");
+	alert("Three");
 }
