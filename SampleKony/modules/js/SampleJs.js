@@ -4,4 +4,5 @@ function sample (){
 	alert("Three");
 	alert("Four");
 	alert("Seven");
+	alert("Eight");
 }
